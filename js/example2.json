@@ -1,0 +1,14 @@
+{
+    "p1" : {
+        "name" : "Alex",
+        "age" : 23,
+        "iin" : 223234,
+        "photo" : "http://proto.io/en/jobs/candidate-questions/imgs/1.jpg"
+    },
+    "p2" : {
+        "name" : "Serg",
+        "age" : 34,
+        "iin" : 123342344,
+        "photo" : "http://proto.io/en/jobs/candidate-questions/imgs/2.jpg"
+    }
+}
